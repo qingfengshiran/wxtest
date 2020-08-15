@@ -10,5 +10,6 @@ int main()
    std::cout<<*p<<std::endl;
    printf("%p\n", p);
    std::cout<<p<<std::endl;   
+   std::cout << "Hello wangxin!" << std::endl;
    return 0;
 }
